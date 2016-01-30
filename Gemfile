@@ -63,5 +63,12 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use figaro to hide secret keys
   gem 'figaro', '~> 1.1.1'
+
+# Use paperclip for image uploads
+  gem 'paperclip', '~> 4.3.2' 
+
+
 # end
+
+
 
